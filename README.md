@@ -54,9 +54,6 @@ Some options can be configured.
 <details>
 <summary>🧭 Calendar system</summary>
 
-> [!WARNING]
-> This section requires JavaScript knowledge.
-
 By default, data is formatted to match [ADE Calendar](https://adeconsult.be).
 You can modify the code to adapt to other calendar systems.
 To do this, go to the `THIS CODE CAN BE MANAGE AS YOUR OWN` section in `index.js` and modify the following code.
